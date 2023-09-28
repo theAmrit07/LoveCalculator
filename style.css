@@ -1,5 +1,5 @@
 body {
-  background-color: #afe9e9;
+  background-color: #fff0f6 ;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -18,6 +18,7 @@ body {
   border: 2px solid #ff85c0;
   text-align: center;
 }
+ 
 h2 {
   color: #ff85c0;
   font-size: 28px;
@@ -47,8 +48,8 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
-#Result{
-    margin-top:10px ;
-    font-size: 22px;
-    color: #ff85c0;
+#result {
+  margin-top: 10px;
+  font-size: 22px;
+  color: #ff85c0;
 }
